@@ -1,0 +1,6 @@
+name: NotDiscordSRV
+version: ${project.version}
+main: dev.dejay.notdiscordsrv.NotDiscordSRV
+api-version: 1.16
+authors: [ DeJayDev ]
+website: https://github.com/dejaydev/NotDiscordSRV
